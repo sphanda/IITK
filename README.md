@@ -43,7 +43,21 @@ Capstone_Project-CS01/
 
    Ensure you have **Python 3.11+** installed.
 
-2. **Install Ollama**
+2. **Install Python dependencies**
+
+   From inside `Capstone_Project-CS01/Codebase` run:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Notes:
+   - PDF input text extraction uses `pdfplumber`
+   - DOCX input text extraction uses `python-docx`
+   - DOCX output export uses `python-docx`
+   - PDF output export is best-effort via `pandoc` (optional)
+
+3. **Install and run Ollama**
 
    - Install Ollama on macOS (Apple M1 / Apple Silicon).
    - Confirm installation with:
@@ -52,7 +66,11 @@ Capstone_Project-CS01/
    ollama --version
    ```
 
-3. **Pull Required Models**
+   Ensure Ollama is running (one of the following):
+   - In a separate terminal, run: `ollama serve`
+   - Or keep the Ollama app running (as it may start the server automatically)
+
+4. **Pull Required Models**
 
    The default configuration uses two local LLMs:
 
@@ -94,7 +112,7 @@ python main.py \
 Input files supported for `--profile` and `--jd`:
 - `.txt`
 - `.docx`
-- `.pdf` (requires `pdfplumber`)
+- `.pdf` (requires `pdfplumber` to be installed)
 
 ---
 
