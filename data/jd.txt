@@ -1,0 +1,32 @@
+Job Title: Junior Data Scientist
+Location: Bangalore, India
+Employment Type: Full-time
+
+About the Role
+We are looking for a motivated Junior Data Scientist to join our analytics team and support the design, development, and deployment of data-driven solutions. You will work closely with senior data scientists, data engineers, and business stakeholders to turn raw data into actionable insights.
+
+Responsibilities
+- Clean, preprocess, and analyze structured and unstructured data using Python, SQL, and relevant libraries.
+- Build and evaluate predictive models (classification and regression) using machine learning techniques.
+- Develop analytical dashboards and visualizations to communicate findings to non-technical stakeholders.
+- Collaborate with product and business teams to define metrics, design experiments, and measure impact.
+- Document data pipelines, experiments, and model performance in a clear and reproducible way.
+- Contribute to improving existing models by monitoring performance and suggesting enhancements.
+
+Required Skills and Qualifications
+- Bachelor’s degree in Computer Science, Statistics, Mathematics, Engineering, or a related field.
+- Strong programming skills in Python and familiarity with libraries such as Pandas, NumPy, and scikit-learn.
+- Solid understanding of machine learning fundamentals (classification, regression, model evaluation).
+- Good knowledge of SQL for querying relational databases.
+- Experience with data visualization tools or libraries (e.g., Matplotlib, Seaborn, Power BI, Tableau).
+- Strong analytical and problem-solving skills, with attention to detail.
+- Good verbal and written communication skills; ability to explain technical concepts to non-technical audiences.
+
+Preferred Skills
+- Exposure to NLP techniques (text preprocessing, TF-IDF, embeddings).
+- Experience working with large datasets and basic knowledge of big data ecosystems (e.g., Spark) is a plus.
+- Familiarity with cloud platforms (AWS, GCP, or Azure) and model deployment concepts.
+- Knowledge of A/B testing and experimental design.
+
+Keywords
+Python, SQL, Pandas, NumPy, scikit-learn, Machine Learning, Classification, Regression, Data Visualization, Power BI, Tableau, Statistics, NLP, Predictive Modeling, Model Evaluation, Dashboards, Junior Data Scientist, Bangalore

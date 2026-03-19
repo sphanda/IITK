@@ -1,0 +1,60 @@
+{
+  "role_title": "AI Engineer",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Data Structures & Algorithms",
+    "REST APIs",
+    "Docker",
+    "Kubernetes",
+    "CI/CD Pipelines",
+    "Cloud Platforms (AWS, Azure, GCP)",
+    "MLOps",
+    "Vector Databases",
+    "Embeddings"
+  ],
+  "preferred_skills": [
+    "NLP",
+    "Computer Vision",
+    "Generative AI (LLMs)",
+    "LangChain",
+    "Hugging Face",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "MLOps"
+  ],
+  "responsibilities": [
+    "Design and develop machine learning and deep learning models",
+    "Build and maintain scalable data pipelines for training and inference",
+    "Deploy models using cloud platforms (AWS, Azure, GCP)",
+    "Collaborate with cross-functional teams including DevOps, Data Engineering, and Product teams",
+    "Optimize model performance and ensure reliability in production",
+    "Implement APIs to serve AI models",
+    "Monitor, troubleshoot, and improve model performance over time"
+  ],
+  "keywords": [
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Pipelines",
+    "Cloud Computing",
+    "Model Deployment",
+    "Scalability",
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Data Structures",
+    "Algorithms",
+    "API",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Vector Databases",
+    "Embeddings",
+    "Prompt Engineering",
+    "LLMs"
+  ]
+}

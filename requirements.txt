@@ -1,0 +1,15 @@
+# requirements.txt for Capstone_Project-CS01
+#
+# This project is intentionally minimal and relies only on:
+# - Python 3.11+ standard library
+# - The Ollama CLI (installed separately, not a Python package)
+#
+# No additional Python packages are strictly required.
+#
+# If in the future you decide to use HTTP calls to Ollama instead of subprocess,
+# you may add:
+# requests
+
+python-docx
+pdfplumber
+

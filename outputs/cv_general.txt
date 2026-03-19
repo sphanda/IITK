@@ -1,0 +1,39 @@
+Alice Smith
+alice.smith@example.com
+555-123-4567
+https://www.linkedin.com/in/alicesmith
+https://github.com/alicesmith
+New York, USA
+
+SUMMARY
+Highly motivated software engineer with a strong focus on data analysis and machine learning.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+2020 – 2022
+3.9/4.0
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+2016 – 2020
+3.8/4.0
+
+EXPERIENCE
+Software Engineer
+Acme Corp
+Jun 2022 – Dec 2023
+Developed and maintained software applications.
+Collaborated with a team of engineers to design and implement new features.
+
+PROJECTS
+Sentiment Analysis Model
+Developed a sentiment analysis model to analyze customer reviews.
+
+SKILLS
+Programming: Python, SQL
+ML & Data Science: Machine Learning, Scikit-learn, Pandas
+Data Analysis: Data Analysis
+Data Visualization: Data Visualization, Matplotlib, Seaborn, Power BI
+
+ACHIEVEMENTS

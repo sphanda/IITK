@@ -1,0 +1,50 @@
+Name: Rahul Sharma
+Email: rahul.sharma@example.com
+Phone: +91-9876543210
+Location: Bangalore, India
+
+I am a data science and machine learning enthusiast with around 2 years of experience working on projects involving predictive modeling, NLP, and analytics dashboards. I enjoy turning messy real-world data into actionable insights and building end‑to‑end ML solutions.
+
+Education
+- B.Tech in Computer Science and Engineering from ABC Institute of Technology, Bangalore (2018–2022), CGPA: 8.4/10
+- Relevant coursework: Data Structures and Algorithms, Database Systems, Machine Learning, Deep Learning, Probability and Statistics, Data Mining.
+
+Professional Experience
+Data Analyst Intern | InsightX Analytics, Bangalore | Jun 2023 – Dec 2023
+- Cleaned and analyzed large sales and marketing datasets (5+ million records) using Python, Pandas, and SQL.
+- Built interactive dashboards in Power BI to track monthly revenue, conversion rates, and campaign performance, improving reporting speed by 30%.
+- Collaborated with business stakeholders to define reporting KPIs and automate weekly Excel reports using Python scripts.
+- Performed A/B testing analysis and presented findings to marketing team to optimize ad spend.
+
+Machine Learning Intern | SmartVision Labs, Remote | Jan 2023 – May 2023
+- Developed ML models in scikit-learn for customer churn prediction and lead scoring (logistic regression, random forest, XGBoost).
+- Tuned hyperparameters and evaluated models using ROC-AUC, precision, recall, and F1-score.
+- Implemented data preprocessing pipelines (missing value imputation, encoding, scaling) and wrote reusable utility functions.
+- Documented experiments and results using Jupyter Notebooks and shared findings with the engineering team.
+
+Projects
+Customer Churn Prediction for Telecom
+- Built an end‑to‑end churn prediction pipeline using Python, Pandas, and scikit-learn on a public telecom dataset.
+- Engineered features from call records, billing history, and customer complaints to improve predictive power.
+- Achieved ~0.84 ROC-AUC using gradient boosted trees and implemented SHAP-based feature importance analysis.
+
+Job Recommendation using NLP
+- Collected job descriptions and candidate resumes from public sources and preprocessed the text using spaCy.
+- Built a TF-IDF + cosine similarity based system to recommend relevant jobs to a given CV.
+- Experimented with sentence embeddings using Sentence-BERT to improve semantic matching quality.
+
+Skills
+Programming: Python, SQL
+Libraries & Tools: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Jupyter
+Machine Learning: Classification, Regression, Feature Engineering, Model Evaluation
+NLP: Text preprocessing, TF-IDF, word embeddings
+Other: Git, Linux basics, REST API basics, Excel
+
+Certifications & Achievements
+- Completed an online specialization in Machine Learning (Coursera) focused on supervised and unsupervised learning.
+- Solved 200+ problems on LeetCode and HackerRank (data structures and algorithms).
+- Presented a mini‑project on “Fake News Detection using NLP” at a departmental tech symposium.
+
+Additional Information
+- Comfortable working with remote, cross-functional teams.
+- Interested in data science, NLP, and applied machine learning roles.

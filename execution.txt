@@ -1,0 +1,43 @@
+# Execution instructions for Capstone_Project-CS01
+#
+# Prerequisites:
+# 1. Python 3.11+ installed.
+# 2. Install Python dependencies:
+#       pip install -r requirements.txt
+#    Note:
+#      - PDF input extraction uses `pdfplumber` (installed from requirements.txt)
+#      - DOCX input extraction uses `python-docx` (installed from requirements.txt)
+# 2. Ollama installed and the 'ollama' command available in your PATH.
+#    See Ollama installation instructions for macOS (Apple Silicon).
+# 3. Pull the required models (example models used in this project):
+#       ollama pull gemma3:1b
+#       ollama pull gemma3:4b
+# 4. (Optional for PDF export) Install `pandoc` so DOCX can be converted to PDF.
+# 4. Prepare your input files (not included in submission):
+#    - profile.txt | profile.docx | profile.pdf : unstructured user profile
+#    - jd.txt | jd.docx | jd.pdf               : (optional) job description
+#
+# Change directory to Codebase before running:
+#   cd Capstone_Project-CS01/Codebase
+#
+# Basic usage (profile only, general CV):
+python main.py --profile ./data/profile.txt --output-dir ./outputs
+
+# Usage with job description (general + tailored CVs):
+python main.py --profile ./data/profile.txt --jd ./data/jd.txt \
+  --extract-model gemma3:1b --generate-model gemma3:4b \
+  --output-dir ./outputs
+
+# Notes:
+# - The 'outputs' directory will be created if it does not exist.
+# - Runtime outputs include:
+#     structured_profile.json
+#     jd_analysis.json              (only if JD is provided)
+#     cv_general.txt
+#     cv_general.docx
+#     cv_general.pdf
+#     cv_tailored.txt               (only if JD is provided and generation succeeds)
+#     cv_tailored.docx
+#     cv_tailored.pdf
+#     cv_evaluation.txt
+
